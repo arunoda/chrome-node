@@ -4,7 +4,7 @@ NodeJS Runtime for Chrome - To Use with Chrome's Packaged apps.
 
 ##How this works
 
-You simply add node.js file to your chrome web app as shown below and you can build amazing stuff on chrome with node
+You simply add `node.js` file to your chrome web app as shown below. After that you can build amazing stuff on chrome with node
 
 ##Example
 
@@ -29,10 +29,10 @@ You simply add node.js file to your chrome web app as shown below and you can bu
 
 ~~~
 
-##So, where is the `node.js`
+##So, where is magical `node.js`
 
 Yes. it is not not there yet. But this is how it should be. 
 
-**Why don't just click on the fork button?**
+**Why don't you just click on the fork button?**
 
 
