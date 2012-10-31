@@ -31,7 +31,7 @@ You simply add `node.js` file to your chrome web app as shown below. After that 
 
 ##So, where is magical `node.js`
 
-Yes. it is not not there yet. But this is how it should be. 
+It's not there and this is how it should be
 
 **Why don't you just click on the fork button?**
 
