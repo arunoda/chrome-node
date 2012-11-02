@@ -33,6 +33,8 @@ You simply add `node.js` file to your chrome web app as shown below. After that 
 
 It's not there and this is how it should be
 
-**If you are a NodeJS/Chrome developer and If you love the idea, Try to work on this :)**
+**I will try to spend some time on the implementation, by the time if someone started on this will try to help him**
+
+##This is not a Joke. But an idea presented as a Github Repo. So be cool.
 
 
