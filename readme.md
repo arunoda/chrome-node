@@ -1,12 +1,12 @@
-#Chrome Node
+# Chrome Node
 
 NodeJS Runtime for Chrome - To Use with Chrome's Packaged apps.
 
-##How this works
+## How this works
 
 You simply add `node.js` file to your chrome web app as shown below. After that you can build amazing stuff on chrome with node
 
-##Example
+## Example
 
 ~~~html
 
@@ -29,12 +29,12 @@ You simply add `node.js` file to your chrome web app as shown below. After that 
 
 ~~~
 
-##So, where is magical `node.js`
+## So, where is magical `node.js`
 
 It's not there and this is how it should be
 
 **I will try to spend some time on the implementation, by the time if someone started on this will try to help him.**
 
-##This is not a Joke. But an idea presented as a Github Repo. So be cool.
+## This is not a Joke. But an idea presented as a Github Repo. So be cool.
 
 
